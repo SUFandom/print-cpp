@@ -2,8 +2,7 @@
 
 A beginner's Best Friend to save time print a basic text to output!!!
 
-[![github-license](https://img.shi
-elds.io/github/license/SUFandom/print-cpp?style=flat&logo=github)](https://github.com/SUFandom/print-cpp)
+[![github-license](https://img.shields.io/github/license/SUFandom/print-cpp?style=flat&logo=github)](https://github.com/SUFandom/print-cpp)
 
 The `main.cpp` is a vivid example of how to use, and Access the library. The 'Libraries' are located in `lib` Directory.
 
